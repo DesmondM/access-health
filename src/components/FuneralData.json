@@ -1,0 +1,424 @@
+[
+    {
+            "id": 100,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R15 000",
+            "ageGroup": "18-64",
+            "premium": "R69"
+    },
+    {
+            "id": 101,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R15 000",
+            "ageGroup": "65-74",
+            "premium": "R130"
+    },
+    {
+            "id": 102,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R15 000",
+            "ageGroup": "75-84",
+            "premium": "R222"
+    },
+    {
+            "id": 103,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R20 000",
+            "ageGroup": "18-64",
+            "premium": "R75"
+    },
+    {
+            "id": 104,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R20 000",
+            "ageGroup": "65-74",
+            "premium": "R156"
+    },
+    {
+            "id": 105,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R20 000",
+            "ageGroup": "75-84",
+            "premium": "R276"
+    },
+    {
+            "id": 106,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R25 000",
+            "ageGroup": "18-64",
+            "premium": "R79"
+    },
+    {
+            "id": 107,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R25 000",
+            "ageGroup": "65-74",
+            "premium": "R180"
+    },
+    {
+            "id": 108,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R25 000",
+            "ageGroup": "75-84",
+            "premium": "R330"
+    },
+    {
+            "id": 109,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R30 000",
+            "ageGroup": "18-64",
+            "premium": "R83"
+    },
+    {
+            "id": 110,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R30 000",
+            "ageGroup": "65-74",
+            "premium": "R205"
+    },
+    {
+            "id": 111,
+            "plan": "Funeral Plan",
+            "cover": "Member Only",
+            "coverAmount": "R30 000",
+            "ageGroup": "75-84",
+            "premium": "R385"
+    },
+    {
+            "id": 112,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R15 000",
+            "ageGroup": "18-64",
+            "premium": "R82"
+    },
+    {
+            "id": 113,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R15 000",
+            "ageGroup": "65-74",
+            "premium": "R130"
+    },
+    {
+            "id": 114,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R15 000",
+            "ageGroup": "75-84",
+            "premium": "R220"
+    },
+    {
+            "id": 115,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R20 000",
+            "ageGroup": "18-64",
+            "premium": "R89"
+    },
+    {
+            "id": 116,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R20 000",
+            "ageGroup": "65-74",
+            "premium": "R156"
+    },
+    {
+            "id": 117,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R20 000",
+            "ageGroup": "75-84",
+            "premium": "R275"
+    },
+    {
+            "id": 118,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R25 000",
+            "ageGroup": "18-64",
+            "premium": "R97"
+    },
+    {
+            "id": 119,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R25 000",
+            "ageGroup": "65-74",
+            "premium": "R180"
+    },
+    {
+            "id": 120,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R25 000",
+            "ageGroup": "75-84",
+            "premium": "R330"
+    },
+    {
+            "id": 121,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R30 000",
+            "ageGroup": "18-64",
+            "premium": "R105"
+    },
+    {
+            "id": 122,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R30 000",
+            "ageGroup": "65-74",
+            "premium": "R205"
+    },
+    {
+            "id": 123,
+            "plan": "Funeral Plan",
+            "cover": "Member + children",
+            "coverAmount": "R30 000",
+            "ageGroup": "75-84",
+            "premium": "R385"
+    },
+
+
+
+
+    {
+            "id": 124,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R15 000",
+            "ageGroup": "18-64",
+            "premium": "R90"
+    },
+    {
+            "id": 125,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R15 000",
+            "ageGroup": "65-74",
+            "premium": "R198"
+    },
+    {
+            "id": 126,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R15 000",
+            "ageGroup": "75-84",
+            "premium": "R344"
+    },
+    {
+            "id": 127,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R20 000",
+            "ageGroup": "18-64",
+            "premium": "R100"
+    },
+    {
+            "id": 128,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R20 000",
+            "ageGroup": "65-74",
+            "premium": "R244"
+    },
+    {
+            "id": 129,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R20 000",
+            "ageGroup": "75-84",
+            "premium": "R439"
+    },
+    {
+            "id": 130,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R25 000",
+            "ageGroup": "18-64",
+            "premium": "R110"
+    },
+    {
+            "id": 131,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R25 000",
+            "ageGroup": "65-74",
+            "premium": "R290"
+    },
+    {
+            "id": 132,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R25 000",
+            "ageGroup": "75-84",
+            "premium": "R534"
+    },
+    {
+            "id": 133,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R30 000",
+            "ageGroup": "18-64",
+            "premium": "R120"
+    },
+    {
+            "id": 134,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R30 000",
+            "ageGroup": "65-74",
+            "premium": "R336"
+    },
+    {
+            "id": 135,
+            "plan": "Funeral Plan",
+            "cover": "Family",
+            "coverAmount": "R30 000",
+            "ageGroup": "75-84",
+            "premium": "R629"
+    },
+    {
+            "id": 136,
+            "plan": "M+5",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R15 000",
+            "ageGroup": "0-65",
+            "premium": "R219"
+    },
+    {
+            "id": 137,
+            "plan": "M+5",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R15 000",
+            "ageGroup": "0-75",
+            "premium": "R295"
+    },
+    {
+            "id": 138,
+            "plan": "M+9",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R15 000",
+            "ageGroup": "0-65",
+            "premium": "R280"
+    },
+    {
+            "id": 139,
+            "plan": "M+9",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R15 000",
+            "ageGroup": "0-75",
+            "premium": "R375"
+    },
+
+    {
+            "id": 140,
+            "plan": "M+5",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R20 000",
+            "ageGroup": "0-65",
+            "premium": "R269"
+    },
+    {
+            "id": 141,
+            "plan": "M+5",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R20 000",
+            "ageGroup": "0-75",
+            "premium": "R370"
+    },
+    {
+            "id": 142,
+            "plan": "M+9",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R20 000",
+            "ageGroup": "0-65",
+            "premium": "R350"
+    },
+    {
+            "id": 143,
+            "plan": "M+9",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R20 000",
+            "ageGroup": "0-75",
+            "premium": "R477"
+    },
+    {
+            "id": 144,
+            "plan": "M+5",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R25 000",
+            "ageGroup": "0-65",
+            "premium": "R320"
+    },
+    {
+            "id": 145,
+            "plan": "M+5",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R25 000",
+            "ageGroup": "0-75",
+            "premium": "R446"
+    },
+    {
+            "id": 146,
+            "plan": "M+9",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R25 000",
+            "ageGroup": "0-65",
+            "premium": "R420"
+    },
+    {
+            "id": 147,
+            "plan": "M+9",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R25 000",
+            "ageGroup": "0-75",
+            "premium": "R579"
+    },
+
+    {
+            "id": 148,
+            "plan": "M+5",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R30 000",
+            "ageGroup": "0-65",
+            "premium": "R370"
+    },
+    {
+            "id": 149,
+            "plan": "M+5",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R30 000",
+            "ageGroup": "0-75",
+            "premium": "R52"
+    },
+    {
+            "id": 150,
+            "plan": "M+9",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R30 000",
+            "ageGroup": "0-65",
+            "premium": "R490"
+    },
+    {
+            "id": 151,
+            "plan": "M+9",
+            "cover": "Traditional Parlour Product",
+            "coverAmount": "R30 000",
+            "ageGroup": "0-75",
+            "premium": "R681"
+    }
+]
